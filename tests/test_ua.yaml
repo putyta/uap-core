@@ -1,5 +1,23 @@
 test_cases:
 
+  - user_agent_string: 'AeroflotIPad/3.5.2 (ru.aeroflot.afl; build:2; iOS 10.1.1) Alamofire/3.5.1'
+    family: 'AFL-AppleAPP'
+    major: '3'
+    minor: '5'
+    patch: '2'
+
+  - user_agent_string: 'Mobile Application/3.2.0.114 (Android 6.0.1)'
+    family: 'AFL-AndroidAPP'
+    major: '3'
+    minor: '2'
+    patch: '0'
+
+  - user_agent_string: 'Application/3.0.0 (Windows 10)'
+    family: 'AFL-WindowsAPP'
+    major: '3'
+    minor: '0'
+    patch: '0'
+
   - user_agent_string: 'Mozilla/5.0 (Windows; U; en-US) AppleWebKit/531.9 (KHTML, like Gecko) AdobeAIR/2.5.1'
     family: 'AdobeAIR'
     major: '2'

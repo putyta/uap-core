@@ -1,5 +1,26 @@
 test_cases:
 
+  - user_agent_string: 'AeroflotIPad/3.5.2 (ru.aeroflot.afl; build:2; iOS 10.1.1) Alamofire/3.5.1'
+    family: 'iOS'
+    major: '10'
+    minor: '1'
+    patch: '1'
+    patch_minor:
+
+  - user_agent_string: 'Mobile Application/3.2.0.114 (Android 6.0.1)'
+    family: 'Android'
+    major: '6'
+    minor: '0'
+    patch: '1'
+    patch_minor:
+
+  - user_agent_string: 'Application/3.0.0 (Windows 10)'
+    family: 'Windows 10'
+    major:
+    minor:
+    patch:
+    patch_minor:
+
   - user_agent_string: 'Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10_6_3; en-us; Silk/1.1.0-80) AppleWebKit/533.16 (KHTML, like Gecko) Version/5.0 Safari/533.16 Silk-Accelerated=true'
     family: 'Android'
     major:
