@@ -18,6 +18,12 @@ test_cases:
     minor: '0'
     patch: '0'
 
+  - user_agent_string: 'Mozilla/5.0 (Windows NT 6.1; WOW64) SkypeUriPreview Preview/0.5'
+    family: 'SkypeBot'
+    major: '0'
+    minor: '5'
+    patch:
+
   - user_agent_string: 'Mozilla/5.0 (Windows; U; en-US) AppleWebKit/531.9 (KHTML, like Gecko) AdobeAIR/2.5.1'
     family: 'AdobeAIR'
     major: '2'

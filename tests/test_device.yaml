@@ -15,6 +15,11 @@ test_cases:
     brand:
     model:
 
+  - user_agent_string: 'Mozilla/5.0 (Windows NT 6.1; WOW64) SkypeUriPreview Preview/0.5'
+    family: 'Spider'
+    brand: 'Microsoft'
+    model:
+
   - user_agent_string: 'ALCATEL-OT510A/382 ObigoInternetBrowser/Q05A'
     family: 'Alcatel OT510A'
     brand: 'Alcatel'
